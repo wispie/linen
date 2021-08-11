@@ -1,9 +1,13 @@
-# Fabric Example Mod
+# Linen
+
+## What is it?
+
+Minecraft Professional Screenshotter's Toolkit, also adds METADATA to your Minecraft Screenshots so you and your friends know exactly where when and how you took it.
 
 ## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Get the latest release from the Releases tab, or build it yourself.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This project is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
