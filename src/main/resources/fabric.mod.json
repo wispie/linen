@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.wisp.linen.Main"
+    ],
+    "client": [
+      "net.wisp.linen.gui.ThirdsClient"
     ]
   },
   "mixins": [
